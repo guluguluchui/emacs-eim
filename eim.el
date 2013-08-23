@@ -69,7 +69,7 @@ one is kept."
 (defgroup eim nil
   "eim: emacs input method"
   :group 'leim)
-(defvar eim-page-length 7 "每页显示的词条数目")
+(defvar eim-page-length 5 "每页显示的词条数目")
 
 (defface eim-string-face '((t (:underline t)))
   "Face to show current string"
