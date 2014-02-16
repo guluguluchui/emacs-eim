@@ -2941,6 +2941,7 @@ bie-chu 别处
 bie-chu-xin-cai 别出心裁
 bie-de 别的
 bie-dong-dui 别动队
+bie-gou 别构
 bie-guan 别管
 bie-hao 别号
 bie-jia 鳖甲
@@ -8899,6 +8900,7 @@ g-t 感叹 个体 刚体 钢铁 高台 高唐 搞通 跟头 工头 共同 沟通
 g-t-an-q 国土安全
 g-t-an-q-b 国土安全部
 g-t-c 感叹词
+g-t-d-b 钙调蛋白
 g-t-h 个体户
 g-t-h-r 光天化日
 g-t-j-z 骨头架子
@@ -9039,6 +9041,7 @@ gai-shan-guan-xi 改善关系
 gai-shan-tong-xun 改善通讯
 gai-shi 盖世
 gai-shi-tai-bao 盖世太保
+gai-tiao-dan-bai 钙调蛋白
 gai-xian 盖县
 gai-xie 改写
 gai-xie-gui-zheng 改邪归正
@@ -9590,7 +9593,7 @@ gou-si 构思
 gou-tong 沟通
 gou-wu 狗屋 购物
 gou-wu-zhong-xin 购物中心
-gou-xiang 构想
+gou-xiang 构想 构象
 gou-yin 勾引
 gou-zao 构造
 gou-zi 钩子
@@ -11630,7 +11633,7 @@ huo-tui 火腿
 huo-wu 货物
 huo-wu-yun-shu 货物运输
 huo-xi 获悉
-huo-xing 火星 惑星
+huo-xing 火星 活性
 huo-xing-kuai-che 火星快车
 huo-xing-tan 活性炭
 huo-xu 或许
@@ -13001,8 +13004,9 @@ jie-guo 结果
 jie-he 结合 接合
 jie-he-gan-jun 结核杆菌
 jie-he-guo-cheng 结合过程
-jie-he-lv 结合律
+jie-he-lv 结合律 结合率
 jie-he-mo-xing 结合模型
+jie-he-wei-dian 结合位点
 jie-hun 结婚
 jie-huo 接获
 jie-ji 阶级 劫机
@@ -25800,6 +25804,7 @@ xin-zang-ji-huan 心脏疾患
 xin-zang-yi-zhi 心脏移殖
 xin-ze-xi-zhou 新泽西州
 xin-zheng 新郑
+xin-zhi 锌指
 xin-zhong 心中
 xin-zhou 忻州 新洲
 xin-zhu 新竹
